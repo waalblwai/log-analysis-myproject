@@ -1,0 +1,15 @@
+1. What are the most popular three articles of all time?
+	- candidate-is-jerk 338647
+	- bears-love-berries 253801
+	- bad-things-gone 170098
+2. Who are the most popular article authors of all time?
+	- Rudolf von Treppenwitz 338647
+	- Ursula La Multa 253801
+	- Anonymous Contributor 170098
+	- Ursula La Multa 84906
+	- Rudolf von Treppenwitz 84810
+	- Markoff Chaney 84557
+	- Ursula La Multa 84504
+	- Ursula La Multa 84383
+3. On which days did more than 1% of requests lead to errors?
+	- 2.26268624680272595600 2016-07-17
